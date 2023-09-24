@@ -1,6 +1,6 @@
 # diffusion
 
 
-free and unlimited online diffusion:
+free and unlimited image generation:
 - available models: stable diffusion, SDXL, multi-lingual SD
-- join our discird server: https://discord.gg/HhREsxWnND
+- join our discord server: https://discord.gg/HhREsxWnND
